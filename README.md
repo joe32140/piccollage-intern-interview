@@ -1,4 +1,3 @@
 #Usage
-
-   python pairs.py
-   python rainwater.py
+>python pairs.py
+>python rainwater.py
