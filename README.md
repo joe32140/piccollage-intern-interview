@@ -1,4 +1,4 @@
-Usage
+Questions
 ============================
 
 1. Pairs: 
@@ -16,6 +16,8 @@ Example: given [[1, 2, 5, 5], [2, 1, 4, 2], [5, 3, 2, 2]], you should return 1.
 Given [[98]], return 0. Given [[95, 2], [1, 17]]  return 0. 
 Given [[3, 5, 5, 3], [5, 1, 3, 6], [3, 8, 8, 3]] return 6.
 ```
+Usage
+============================
 ```
 $ python pairs.py
 $ python rainwater.py
